@@ -4,7 +4,7 @@
 translate spanish day_1_fde09408:
 
     # m "Hmmmffhg."
-    m ""
+    m "Hmmmffhg."
 
 # game/day_1.rpy:6
 translate spanish day_1_08cde4b2:
