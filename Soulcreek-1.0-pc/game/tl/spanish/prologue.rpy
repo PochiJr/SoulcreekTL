@@ -4,187 +4,187 @@
 translate spanish prologue_start_2a6cb489:
 
     # "I gasp for breath. Ice-cold air shreds my insides."
-    ""
+    "Jadeo en busca de aire. Un aire gélido me destroza por dentro."
 
 # game/prologue.rpy:599
 translate spanish prologue_start_9b8ac578:
 
     # "What's going on? Where am I?"
-    ""
+    "¿Qué está pasando? ¿Dónde estoy?"
 
 # game/prologue.rpy:601
 translate spanish prologue_start_f24f36e2:
 
     # "I try to sit up, only rolling uselessly onto my side. I'm completely disorientated."
-    ""
+    "Intento incorporarme, logrando tan solo rodar hacia mi costado. Estoy totalmente desorientado."
 
 # game/prologue.rpy:605
 translate spanish prologue_start_35f26d56:
 
     # m "{size=35}{b}Argh!{/b}{/size}" with hpunch
-    m "" with hpunch
+    m "{size=35}{b}¡Argh!{/b}{/size}" with hpunch
 
 # game/prologue.rpy:606
 translate spanish prologue_start_79c3a722:
 
     # "A brutal, sharp sting in my side paralyses me. I writhe and squirm, fighting off the pain and confusion."
-    ""
+    "Una brutal y afilada punzada en mi costado me paraliza. Me retuerzo y contorneo, intentando aplacar el dolor y la confusión."
 
 # game/prologue.rpy:607
 translate spanish prologue_start_cefc521c:
 
     # "It's brutally cold. At once, I feel my flesh tingle against the bitter chill."
-    ""
+    "Es brutalmente gélido. En tan solo un instante, siento como mis entrañas tiemblan ante el frío cortante."
 
 # game/prologue.rpy:608
 translate spanish prologue_start_f34ead2e:
 
     # "Dazed and bewildered, I rub my eyes to clear my vision."
-    ""
+    "Confuso y desconcertado, me froto los ojos para aclararme la vista."
 
 # game/prologue.rpy:611
 translate spanish prologue_start_9004aab4:
 
     # m "Wh... what the...?"
-    m ""
+    m "¿Qu-... Qué co...?"
 
 # game/prologue.rpy:612
 translate spanish prologue_start_da2d5c7d:
 
     # "I'm in some kind of primitive hut, lying on a supple fur-skin bed. There's a single doorway opposite me that's bolted shut."
-    ""
+    "Estoy en una especie de cabaña rudimentaria, tumbado sobre una acolchada cama hecha de pelaje. Hay una única salida justo en frente de mí la cual se halla completamente cerrada."
 
 # game/prologue.rpy:613
 translate spanish prologue_start_dec6e545:
 
     # "I've been dressed in thin, worn-out leggings that are far too large. A thread of rope serves as a makeshift belt. My feet and upper body are completely exposed to the cold."
-    ""
+    "He sido vestido con unas finas calzas que, definitivamente, son demasiado grandes para mí. Un hilo de cuerda hace sus veces de cinturón improvisado. Tanto mis pies como mi torso se encuentran expuestos al frío ambiente."
 
 # game/prologue.rpy:614
 translate spanish prologue_start_3ba42de4:
 
     # "There are dull, cream-coloured bandages tightly wrapped around my abdomen, squeezing a wound in my left side. Blood has soaked through the linen."
-    ""
+    "Mi abdomen se encuentra envuelto por unas firmes vendas color crema, apretando una herida en mi costado izquierdo. La sangre ya ha permeado a través del lino."
 
 # game/prologue.rpy:615
 translate spanish prologue_start_ee3de7ff:
 
     # "This definitely isn't a hospital. It isn't my home, either."
-    ""
+    "Desde luego esto no es un hospital. Tampoco es mi casa."
 
 # game/prologue.rpy:616
 translate spanish prologue_start_2e44abfc:
 
     # "...I don't {i}remember{/i} home."
-    ""
+    "...No {i}recuerdo{/i} mi casa."
 
 # game/prologue.rpy:617
 translate spanish prologue_start_92f4f0e8:
 
     # "I don't remember myself."
-    ""
+    "No me recuerdo a mí mismo."
 
 # game/prologue.rpy:618
 translate spanish prologue_start_79552bb0:
 
     # "I don't remember {i}anything.{/i}"
-    ""
+    "No recuerdo {i}nada.{/i}"
 
 # game/prologue.rpy:619
 translate spanish prologue_start_f841f734:
 
     # "I scour my mind for some kind of identity, but all I have is my name. [mc]. How did I get here?"
-    ""
+    "Navego por mi mente en busca de mi propia identidad, pero todo lo que hay es mi nombre. [mc]. ¿Cómo he llegado aquí?"
 
 # game/prologue.rpy:620
 translate spanish prologue_start_90a835e6:
 
     # "I'm human - I know that, at least? I'm not a {i}brawny{/i} human. I've got some muscle on me, but nothing remarkable."
-    ""
+    "Soy humano - De eso estoy seguro, ¿supongo? No soy un humano {i}fornido{/i}. Tengo algo de músculo, pero nada del otro mundo."
 
 # game/prologue.rpy:621
 translate spanish prologue_start_44ba551b:
 
     # "I have knowledge. I have instinct and thought. I have this language. But-"
-    ""
+    "Aún mantengo mis conocimientos. Tengo instinto y razonamiento. Soy capaz de hablar mi lengua. Pero-"
 
 # game/prologue.rpy:622
 translate spanish prologue_start_4d115bae:
 
     # "{i}Apple!{/i}" with hpunch
-    "" with hpunch
+    "{i}¡Apple!{/i}" with hpunch
 
 # game/prologue.rpy:623
 translate spanish prologue_start_bfed123d:
 
     # "...Why's {i}Apple{/i} the first thing that comes to mind?"
-    ""
+    "...¿Por qué es {i}Apple{/i} la primera palabra en la que he pensado? ¿Y por qué en otro idioma?"
 
 # game/prologue.rpy:624
 translate spanish prologue_start_ef876594:
 
     # m "Hello?"
-    m ""
+    m "¿Hola?"
 
 # game/prologue.rpy:625
 translate spanish prologue_start_d10b6f19:
 
     # "My voice is frail. No one answers me. I'm alone."
-    ""
+    "Mi voz es débil. No hay respuesta. Estoy solo."
 
 # game/prologue.rpy:626
 translate spanish prologue_start_03c643ad:
 
     # "The hut seems primitive, almost stone age, but there are signs of ramshackle technology."
-    ""
+    "La cabaña parece primitiva, casi de la edad de piedra, pero hay rastros de tecnología avanzada."
 
 # game/prologue.rpy:627
 translate spanish prologue_start_8fd81236:
 
     # "Worn-out lightbulbs hang from a string wire above. A dilapidated fan-heater is sitting next to the firepit."
-    ""
+    "Bombillas desgastadas cuelgan desde un cable sobre mí. Al lado de la fogata se encuentra una estufa al borde de la ruina."
 
 # game/prologue.rpy:628
 translate spanish prologue_start_a60665f8:
 
     # "Strangest of all are the crates of old scrap metal and junk in the corner, their contents rusted and waning beyond recognition."
-    ""
+    "A destacar están las cajas de trastos y chatarra en la esquina del habitáculo, cuyo contenido se decaía y oxidaba más allá de lo reconocible."
 
 # game/prologue.rpy:629
 translate spanish prologue_start_7c7a5e49:
 
     # "Some things I can just about identify: toothbrushes, a digital watch, several mobile phones, what I think might be a laptop, a television remote, and other things of that nature."
-    ""
+    "Hay ciertos elementos que puedo reconocer: cepillos de dientes, un reloj digital, varios teléfonos móviles, lo que creo que es un portátil, un mando de televisión, y varios aparatos de esa índole."
 
 # game/prologue.rpy:630
 translate spanish prologue_start_75f2b52c:
 
     # "It looks like someone raided an ancient scrapyard. Am I in the future?"
-    ""
+    "Es como si alguien hubiera asaltado un viejo vertedero. ¿Es esto el futuro?"
 
 # game/prologue.rpy:640
 translate spanish prologue_start_5d4a8dd0:
 
     # m "{b}Whoa!{/b}"
-    m ""
+    m "{b}¡Whoa!{/b}"
 
 # game/prologue.rpy:641
 translate spanish prologue_start_a8b09704:
 
     # "I felt something in my mind. It was too weird to describe - like a gentle {i}pop{/i} within my consciousness."
-    ""
+    "Sentí algo en mi mente. Era muy raro de describir - fue como un suave {i}pop{/i} dentro de mi consciencia."
 
 # game/prologue.rpy:642
 translate spanish prologue_start_5a790335:
 
     # "It felt... {i}unnatural.{/i}"
-    ""
+    "Se sintió... {i}forzado.{/i}" 
 
 # game/prologue.rpy:643
 translate spanish prologue_start_59a5c92e:
 
     # "As I cast my eyes around the empty room, a horrible feeling creeps up on me."
-    ""
+    "Según posé mis ojos a lo largo del cuarto vacío, una sensación horripilante comenzó a nacer dentro de mí."
 
 # game/prologue.rpy:645
 translate spanish prologue_start_99c920f2:
