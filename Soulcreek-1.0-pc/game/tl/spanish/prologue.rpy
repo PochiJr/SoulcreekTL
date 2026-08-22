@@ -190,1099 +190,1099 @@ translate spanish prologue_start_59a5c92e:
 translate spanish prologue_start_99c920f2:
 
     # "I'm {i}not{/i} alone after all..."
-    ""
+    "Parece que {i}no{/i} estoy solo..."
 
 # game/prologue.rpy:646
 translate spanish prologue_start_f4019efa:
 
     # "My chest tightens. Clutching my injured side, I rise uneasily to my feet."
-    ""
+    "Siento una presión en el pecho. Sujetando mi lado herido, me incorporo sobre mis pies."
 
 # game/prologue.rpy:647
 translate spanish prologue_start_0c86a8c7:
 
     # m "Who's there?"
-    m ""
+    m "¿Quién está ahí?"
 
 # game/prologue.rpy:648
 translate spanish prologue_start_b70b732e:
 
     # "No answer, but I {i}know{/i} someone's here. I can feel them, watching."
-    ""
+    "Sin respuesta, pero {i}sé{/i} que hay alguien. Puedo sentirlo, observándome."
 
 # game/prologue.rpy:649
 translate spanish prologue_start_7adca4eb:
 
     # m "Hey!" with hpunch
-    m "" with hpunch
+    m "¡Ey!" with hpunch
 
 # game/prologue.rpy:650
 translate spanish prologue_start_98a9d38c:
 
     # "The feeling intensifies... I'm not safe here. I look around for a weapon, but see nothing. In my injured state, I'd be too weak to fight anyway."
-    ""
+    "La sensación se intensificaba... No estoy a salvo aquí. Miro a mí alrededor en busca de un arma, pero no veo nada. En este estado, estaría demasiado débil para luchar de todas formas."
 
 # game/prologue.rpy:660
 translate spanish prologue_start_8e72d1ca:
 
     # "There it is again! My skin prickles in alarm."
-    ""
+    "¡Ahí regresa esa sensación de nuevo! Mi piel se eriza a modo de alarma."
 
 # game/prologue.rpy:661
 translate spanish prologue_start_9f9809dc:
 
     # m "Sh- show yourself!"
-    m ""
+    m "¡S- sal de ahí!"
 
 # game/prologue.rpy:662
 translate spanish prologue_start_0199dc36:
 
     # "Still no answer. I'm really freaking out now."
-    ""
+    "Aún no hay respuesta. Estoy empezando a volverme loco."
 
 # game/prologue.rpy:663
 translate spanish prologue_start_38f0ecf9:
 
     # m "I {b}know{/b} you're here! Answer me, dickhead!" with hpunch
-    m "" with hpunch
+    m "¡{b}Sé{/b} que estás aquí! Contesta, ¡carapolla! " with hpunch
 
 # game/prologue.rpy:677
 translate spanish prologue_start_1c525cf8:
 
     # x "{b}[mc]!{/b}"
-    x ""
+    x "{b}[mc]!{/b}"
 
 # game/prologue.rpy:680
 translate spanish prologue_start_e01a3d13:
 
     # m "{size=50}{b}Wha?!{/b}{/size}" with hpunch
-    m "" with hpunch
+    m "{size=50}{b}¡¿Qué-?!{/b}{/size}" with hpunch
 
 # game/prologue.rpy:682
 translate spanish prologue_start_41741f59:
 
     # "I jump in shock, swiping wildly at the {i}thing{/i} that appears in front of me."
-    ""
+    "Salto del susto, agitando mis manos hacia la {i}cosa{/i} que se me acababa de aparecer en frente."
 
 # game/prologue.rpy:683
 translate spanish prologue_start_1c7def52:
 
     # "I lose balance and my ass falls back onto the bed. Another surge of pain grips my wounded side."
-    ""
+    "Pierdo el equilibro y vuelvo a caerme de culo en la cama. Otra oleada de dolor recorría mi costado herido."
 
 # game/prologue.rpy:684
 translate spanish prologue_start_5ea84291:
 
     # m "{b}Argh!{/b} {i}Damnit...{/i}"
-    m ""
+    m "{b}¡Ugh!{/b} {i}Mierda...{/i}"
 
 # game/prologue.rpy:686
 translate spanish prologue_start_73d1c273:
 
     # x "Ohh, careful. You've suffered a stellate laceration from significant penetrating trauma. You need stitches, pronto."
-    x ""
+    x "Oh, cuidado. Acabas de padecer una laceración estelada en base a un trauma penetrativo. Necesitas puntos, rapidito."
 
 # game/prologue.rpy:688
 translate spanish prologue_start_8db8d19b:
 
     # "I gawp, completely baffled. Some kind of disembodied {i}creature{/i} is floating in my vision."
-    ""
+    "Me hallo boquiabierto, desconcertado. Algún tipo de {i}criatura{/i} incorpórea flota delante de mí."
 
 # game/prologue.rpy:690
 translate spanish prologue_start_135a0ebf:
 
     # "I swipe at it again but I can't seem to touch it. It's like it's glued to my eyes?"
-    ""
+    "Intento alcanzarla de nuevo, pero no parezco ser capaz de poder tocarla. Es como si estuviera, ¿pegada dentro de mis ojos?"
 
 # game/prologue.rpy:692
 translate spanish prologue_start_1e29d134:
 
     # m "I- wha... you- what-"
-    m ""
+    m "Yo- qué... tú- eh-"
 
 # game/prologue.rpy:694
 translate spanish prologue_start_783bd6bb:
 
     # x "Sorry if I startled you! You called for me! Your exact words were-"
-    x ""
+    x "¡Siento haberte sorprendido! ¡he recibido tu llamada! Tus palabras exactas fueron-"
 
 # game/prologue.rpy:696
 translate spanish prologue_start_ff7f107d:
 
     # x "-answer me, {i}dickhead...?{/i}"
-    x ""
+    x "-Contesta, {i}¿carapolla...?{/i}"
 
 # game/prologue.rpy:698
 translate spanish prologue_start_74d1bead:
 
     # x "Wow. Rude."
-    x ""
+    x "Guau. Borde."
 
 # game/prologue.rpy:699
 translate spanish prologue_start_e5f0ae1f:
 
     # "I'm utterly speechless."
-    ""
+    "Estoy totalmente sin palabras."
 
 # game/prologue.rpy:701
 translate spanish prologue_start_cafa0e9e:
 
     # x "[mc]? You okay?"
-    x ""
+    x "¿[mc]? ¿Todo bien?"
 
 # game/prologue.rpy:702
 translate spanish prologue_start_f7891581:
 
     # m "Wh... what {b}are{/b} you?"
-    m ""
+    m "Q... ¿Qué {b}eres{/b}?"
 
 # game/prologue.rpy:704
 translate spanish prologue_start_ad8a86df:
 
     # x "I'm your AI."
-    x ""
+    x "Soy tu IA."
 
 # game/prologue.rpy:705
 translate spanish prologue_start_9f87a9ef:
 
     # m "Uh. Come again?"
-    m ""
+    m "Eh. ¿Cómo dices?"
 
 # game/prologue.rpy:707
 translate spanish prologue_start_fff3c392:
 
     # b "My name is Byte. I'm an artificial intelligence installed onto your subconscious memory drive."
-    b ""
+    b "Mi nombre es Byte. Soy una inteligencia artificial instalada en la tarjeta de memoria subconsciente."
 
 # game/prologue.rpy:709
 translate spanish prologue_start_b69b0631:
 
     # m "Th... there's a robot. There's a robot in my brain. What's... happening?"
-    m ""
+    m "H... Hay un robot. Hay un robot en mi cerebro. ¿Qué está... pasando?"
 
 # game/prologue.rpy:711
 translate spanish prologue_start_9ad2ab5b:
 
     # b "Uh. No. I'm not a robot."
-    b ""
+    b "Eh. No. No soy un robot."
 
 # game/prologue.rpy:713
 translate spanish prologue_start_4f512742:
 
     # b "I'm just ones and zeroes, really. I don't have a physical body."
-    b ""
+    b "Realmente, solo soy unos y zeros. No tengo un cuerpo físico."
 
 # game/prologue.rpy:715
 translate spanish prologue_start_ab6fd600:
 
     # m "O... kay. This is- like, some kind of lucid fever dream, right? I was in an accident. That's why I can't remember anything."
-    m ""
+    m "Va...le. Esto es- osea, algún tipo de sueño lúcido, ¿no? He tenido un accidente. Por eso no puedo recordar nada."
 
 # game/prologue.rpy:717
 translate spanish prologue_start_37247066:
 
     # "I fumble with my skull for any signs of brain damage, but find nothing."
-    ""
+    "Manoseo mi cráneo en busca de signos de daño cerebral, pero no encuentro ninguno."
 
 # game/prologue.rpy:718
 translate spanish prologue_start_41966f96:
 
     # "Byte seems like he's physically floating in front of me. I move my head but he just moves with me, frozen in my field of view."
-    ""
+    "Byte parece estar flotando físicamente delante de mí. Si muevo mi cabeza él se mueve conmigo, congelado en medio de mi campo de visión."
 
 # game/prologue.rpy:720
 translate spanish prologue_start_429b94d0:
 
     # "Profoundly confused, I sit up with a pained wince and try one more time to meagerly bat him from my vision, like a bemused cat swatting a dangling string."
-    ""
+    "Profundamente confudido, me siento con una mueca de dolor e intento de nuevo espantarlo fuera de mi vista, como si fuese un gato entreteniéndose con un hilo de lana."
 
 # game/prologue.rpy:722
 translate spanish prologue_start_04550608:
 
     # b "What are you doing?"
-    b ""
+    b "¿Qué estás haciendo?"
 
 # game/prologue.rpy:723
 translate spanish prologue_start_0235d537:
 
     # m "This... this is real?"
-    m ""
+    m "¿Es... es esto real?"
 
 # game/prologue.rpy:725
 translate spanish prologue_start_4caa0661:
 
     # b "Of course it's real, {i}dickhead{/i}. I've been installed on your memory drive."
-    b ""
+    b "Claro que es real, {i}carapolla{/i}. Estoy instalado en tu tarjeta de memoria."
 
 # game/prologue.rpy:727
 translate spanish prologue_start_0e04fc93:
 
     # m "My {i}what?{/i}"
-    m ""
+    m "Mi {i}¿qué?{/i}"
 
 # game/prologue.rpy:729
 translate spanish prologue_start_cd6f673f:
 
     # b "Your memory drive! My code is installed in your deep subconscious, and that's why you can see and hear me."
-    b ""
+    b "!Tu disco de memoria! Mi código está instalado en lo más profundo de tu subconsciente, y por eso puedes verme y oírme."
 
 # game/prologue.rpy:731
 translate spanish prologue_start_85b409f2:
 
     # b "My role is to assist in your cognitive functions and provide support to you however I can."
-    b ""
+    b "Mi rol es asistir tus funciones cognitivas y proveer apoyo de la mejor manera posible."
 
 # game/prologue.rpy:733
 translate spanish prologue_start_bff47833:
 
     # b "Just be aware that I can't access internal thought as I can your external actions."
-    b ""
+    b "Ten en cuenta que no tengo la capacidad de acceder a tus pensamientos internos como lo hago con tus acciones externas."
 
 # game/prologue.rpy:735
 translate spanish prologue_start_5727ad6a:
 
     # m "Uh. I don't-... have a {i}memory drive?{/i} I'm human."
-    m ""
+    m "Uh. Yo no-... tengo un {i}disco de memoria{/i}. Soy humano."
 
 # game/prologue.rpy:737
 translate spanish prologue_start_f7ee493b:
 
     # b "Of course you do. It's the internal storage unit where all your memory data is stored."
-    b ""
+    b "Por supuesto que lo tienes. Es tu unidad de almacenamiento interna en la que todos tus datos son almacenados."
 
 # game/prologue.rpy:739
 translate spanish prologue_start_8dd2d97f:
 
     # b "Unfortunately, your conscious memory drive was empty when I booted you up. Normally, that's where your explicit, psychologically forward memory is kept."
-    b ""
+    b "Desafortunadamente, tu disco de memoria consciente estaba vacío cuando te encendí. Normalmente, ahí es donde tu memoria explícita y proactiva es almacenada."
 
 # game/prologue.rpy:741
 translate spanish prologue_start_0015a92a:
 
     # b "So you might be feeling a bit confused."
-    b ""
+    b "Así que puede que te sientas algo confundido."
 
 # game/prologue.rpy:742
 translate spanish prologue_start_af48fc88:
 
     # "I begin fumbling desperately with my skull, searching for any abnormalities. Something is seriously wrong with me!"
-    ""
+    "Comienzo a hurgar desesperadamente en mi cabeza, buscando cualquier anormalidad. Hay algo yendo muy mal en mí."
 
 # game/prologue.rpy:744
 translate spanish prologue_start_89a4f20b:
 
     # b "What's wrong?"
-    b ""
+    b "¿Pasa algo?"
 
 # game/prologue.rpy:745
 translate spanish prologue_start_ccd0395a:
 
     # m "Someone's put a microchip in my brain!"
-    m ""
+    m "¡Alguien me ha puesto un microchip en la cabeza!"
 
 # game/prologue.rpy:747
 translate spanish prologue_start_34823db0:
 
     # b "Uhm. Nope. Nothing like that came up in my preliminary scan of your operating parameters."
-    b ""
+    b "Em. Nop. No he encontrado nada parecido en mi escáner preliminar de tus parámetros operativos."
 
 # game/prologue.rpy:748
 translate spanish prologue_start_a38e9477:
 
     # m "Something in my body must be {i}hosting{/i} you! Humans don't have memory drives!"
-    m ""
+    m "Algo en mi cuerpo debe de estar alojándote. ¡Los humanos no tenemos discos de memoria!"
 
 # game/prologue.rpy:750
 translate spanish prologue_start_65fc2f0c:
 
     # b "I'm pretty sure you do."
-    b ""
+    b "Estoy bastante seguro de que sí."
 
 # game/prologue.rpy:752
 translate spanish prologue_start_c1f240b2:
 
     # m "I'm {b}entirely{/b} sure we don't."
-    m ""
+    m "Estoy {b}completamente{/b} seguro de que no."
 
 # game/prologue.rpy:754
 translate spanish prologue_start_db2edaee:
 
     # b "Huh. What about a central processing unit?"
-    b ""
+    b "Huh. ¿Y qué me dices de una unidad de procesamiento central?"
 
 # game/prologue.rpy:755
 translate spanish prologue_start_74ec14c3:
 
     # m "Nope."
-    m ""
+    m "Qué no."
 
 # game/prologue.rpy:757
 translate spanish prologue_start_98b5e0a9:
 
     # b "Printed circuit mainboard?"
-    b ""
+    b "¿Y una placa madre impresa?"
 
 # game/prologue.rpy:759
 translate spanish prologue_start_47ba7d94:
 
     # m "No."
-    m ""
+    m "No."
 
 # game/prologue.rpy:761
 translate spanish prologue_start_564d3f3f:
 
     # b "Volatile memory chips?"
-    b ""
+    b "¿Chip de memoria volátil?"
 
 # game/prologue.rpy:763
 translate spanish prologue_start_75ae1727:
 
     # m "I'm not a computer!"
-    m ""
+    m "¡Qué no soy un ordenador!"
 
 # game/prologue.rpy:765
 translate spanish prologue_start_ef0e3d3b:
 
     # m "Or... am I?"
-    m ""
+    m "O... ¿sí lo soy?"
 
 # game/prologue.rpy:767
 translate spanish prologue_start_df9170cf:
 
     # b "If you don't have a memory drive, then how am I here?"
-    b ""
+    b "Si no tienes un disco de memoria, ¿entonces cómo es que estoy aquí?"
 
 # game/prologue.rpy:768
 translate spanish prologue_start_d986de00:
 
     # m "Uh. Am I... like- an android?"
-    m ""
+    m "Eh. Acaso soy... Una especie de- ¿androide?"
 
 # game/prologue.rpy:770
 translate spanish prologue_start_a6934275:
 
     # b "There are no artificial components within you, as far as I can tell."
-    b ""
+    b "No hay ningún componente artificial en tu interior, hasta donde yo sé."
 
 # game/prologue.rpy:772
 translate spanish prologue_start_95c36834:
 
     # m "Or- or a synthetic human? Like a human that's been grown?"
-    m ""
+    m "O. ¿o un humano sintético? ¿En plan un humano críado en un laboratorio?"
 
 # game/prologue.rpy:774
 translate spanish prologue_start_6824d0eb:
 
     # b "I'm pretty sure that's not a {i}thing{/i}."
-    b ""
+    b "Estoy bastante seguro de que {i}eso{/i} no es posible."
 
 # game/prologue.rpy:776
 translate spanish prologue_start_b344b2ec:
 
     # "What the hell do I do? Seems my only hope for answers are with this absurd AI thing."
-    ""
+    "¿Qué coño hago yo ahora? Parece que lo único que puede darme respuestas es esta cosa con IA."
 
 # game/prologue.rpy:777
 translate spanish prologue_start_95b59666:
 
     # m "O- okay... so if you're my, uhm- my 'brain butler' thing, can you-"
-    m ""
+    m "V- vale... así que eres como mi, em- mi 'sirviente cerebral', puedes-"
 
 # game/prologue.rpy:779
 translate spanish prologue_start_f2f5387a:
 
     # b "I'm not a butler, dickhead. I'm an {i}AI{/i}."
-    b ""
+    b "No soy un sirviente, carapolla. Soy una {i}IA{/i}."
 
 # game/prologue.rpy:780
 translate spanish prologue_start_0284d753:
 
     # m "Right. Uh, sorry. Do you, uhm... do you know what happened to me? What is this place?"
-    m ""
+    m "Cierto. Eh, perdón. Podrías, em... ¿sabes qué me ha pasado? ¿Qué es este lugar?"
 
 # game/prologue.rpy:782
 translate spanish prologue_start_1d75715f:
 
     # b "I don't know. My data banks are empty too."
-    b ""
+    b "No tengo ni idea. Mis sets de datos están vacíos también."
 
 # game/prologue.rpy:784
 translate spanish prologue_start_39fcf16f:
 
     # b "You've been unconscious for a long time, but certain parameters were met that triggered your start-up procedure."
-    b ""
+    b "Has estado inconsciente durante un largo período de tiempo, pero una serie de parámetros fueron cumplidos, lo cual inició tu secuencia de arranque."
 
 # game/prologue.rpy:785
 translate spanish prologue_start_a1e204d6:
 
     # m "What parameters?"
-    m ""
+    m "¿Qué parámetros?"
 
 # game/prologue.rpy:787
 translate spanish prologue_start_645d2db7:
 
     # b "Someone touched you. Thirteen hours, seven minutes and fifty two seconds ago."
-    b ""
+    b "Alguien te ha tocado. Hace trece horas, siete minutos y ciencuenta y dos segundos."
 
 # game/prologue.rpy:788
 translate spanish prologue_start_d5625e8a:
 
     # m "Who?"
-    m ""
+    m "¿Quién?"
 
 # game/prologue.rpy:790
 translate spanish prologue_start_300c3603:
 
     # b "No idea. Possibly whoever bandaged your wound."
-    b ""
+    b "Y yo que sé. Posiblemente quien te haya vendado la herida."
 
 # game/prologue.rpy:792
 translate spanish prologue_start_55bbcef7:
 
     # "I look around the hut again."
-    ""
+    "Ojeo alrededor de la cabaña de nuevo."
 
 # game/prologue.rpy:793
 translate spanish prologue_start_f51f50f5:
 
     # m "I don't think I've ever been here."
-    m ""
+    m "No creo haber estado aquí antes."
 
 # game/prologue.rpy:795
 translate spanish prologue_start_43a6814c:
 
     # b "Here. Let me do a scan."
-    b ""
+    b "Vamos a ver. Déjame hacer un análisis."
 
 # game/prologue.rpy:806
 translate spanish prologue_start_3f4b5dad:
 
     # m "Whoa, what did you just do?"
-    m ""
+    m "Wow, ¿qué acabas de hacer?"
 
 # game/prologue.rpy:808
 translate spanish prologue_start_fa3e8a4e:
 
     # b "Just my scanning function. It's linked to your optic nerves. I can give you extra information about almost anything just from a visual stimulus."
-    b ""
+    b "Es simplemente mi función de escaneo. Está enlazada con tus nervios ópticos. Te puedo dar información extra sobre casi cualquier cosa simplemente en base a estímulos visuales."
 
 # game/prologue.rpy:809
 translate spanish prologue_start_30828e08:
 
     # m "You can tell where we are?"
-    m ""
+    m "¿Puedes describir donde estamos?"
 
 # game/prologue.rpy:811
 translate spanish prologue_start_e0c5810c:
 
     # b "Not exactly, but I can tell that oxygen levels are thin. I'd say we're pretty high up. A mountain range."
-    b ""
+    b "No exactamente, pero puedo decirte que la densidad de oxígeno es muy baja. Diría que nos encontramos en un terreno muy elevado. Como una cordillera."
 
 # game/prologue.rpy:813
 translate spanish prologue_start_2b2c21a1:
 
     # b "Thermal imaging shows that someone lives here. Someone {i}big{/i}. They were here recently."
-    b ""
+    b "La imagen térmica indica que hay alguien vive aquí. Alguien {i}grande{/i}. Hace no mucho tiempo."
 
 # game/prologue.rpy:815
 translate spanish prologue_start_dbde6776:
 
     # m "Must be our rescuer."
-    m ""
+    m "Debe de ser quien nos rescató."
 
 # game/prologue.rpy:817
 translate spanish prologue_start_f96d11dc:
 
     # b "Whoever they are, they're likely to be quite primitive. Technology levels are low."
-    b ""
+    b "Quienquiera que sea, debe de ser alguien muy primitivo. El nivel tecnológico es bastante bajo."
 
 # game/prologue.rpy:819
 translate spanish prologue_start_abfb9829:
 
     # "I look at the electric lightbulbs, the old electric fan-heater and the crates of salvaged parts."
-    ""
+    "Observo las bombillas, el viejo calefactor y los canastos llenas de chatarra."
 
 # game/prologue.rpy:820
 translate spanish prologue_start_7d2aae73:
 
     # m "What's with all that stuff, then?"
-    m ""
+    m "Entonces, ¿qué pasa con todas estas cosas?"
 
 # game/prologue.rpy:831
 translate spanish prologue_start_b0647811:
 
     # b "Hmm. I'm detecting a live electric current running through the wires. The heater and lightbulbs are functional, but everything else is just ancient scrap."
-    b ""
+    b "Hmm. Detecto una ligera corriente eléctrica a través de los cables. El calefactor y las bombillas son funcionales, pero todo lo demás es chatarra arcaica."
 
 # game/prologue.rpy:832
 translate spanish prologue_start_8243cdc7:
 
     # m "{i}Ancient...?{/i}"
-    m ""
+    m "{i}¿Arcaica...?{/i}"
 
 # game/prologue.rpy:834
 translate spanish prologue_start_24c3ccbb:
 
     # b "Centuries, at least. Perhaps more."
-    b ""
+    b "Siglos, por lo menos, quizás más."
 
 # game/prologue.rpy:836
 translate spanish prologue_start_9df0ca5c:
 
     # m "What {i}year{/i} is it?"
-    m ""
+    m "¿En qué {i}año{/i} estamos?"
 
 # game/prologue.rpy:838
 translate spanish prologue_start_ebf6915a:
 
     # b "Sorry, no calendar installed."
-    b ""
+    b "Discúlpame, no tengo un calendario instalado."
 
 # game/prologue.rpy:840
 translate spanish prologue_start_88981792:
 
     # "I shiver. It's bitterly cold in here. Gingerly, I pull the fur blanket from the bed and wrap it around my bare shoulders to keep warm."
-    ""
+    "Comienzo a temblar. El frío es insoportable en este lugar. Con cautela, agarré la mullida manta que había sobre la cama y envolví mis hombros con ella para mantener el calor."
 
 # game/prologue.rpy:841
 translate spanish prologue_start_525c759d:
 
     # "With a wince, I try and get back up to my feet."
-    ""
+    "Con una mueca, intenté incorporarme de nuevo."
 
 # game/prologue.rpy:843
 translate spanish prologue_start_db96b924:
 
     # b "Whoa, easy! You're injured, remember?"
-    b ""
+    b "Ey, ¡con cuidado! Estás herido, ¿recuerdas?"
 
 # game/prologue.rpy:845
 translate spanish prologue_start_885e4d56:
 
     # b "Just stay sat down. Try using slow, relaxing breaths... in, out... in, out..."
-    b ""
+    b "Mantente sentado. Intenta tomar respiraciones lentas y profundas... inspira... expira..."
 
 # game/prologue.rpy:847
 translate spanish prologue_start_663ecb8e:
 
     # m "I wasn't planning on just sitting on my ass."
-    m ""
+    m "No tenía pensado quedarme aquí de brazos cruzados todo el día."
 
 # game/prologue.rpy:849
 translate spanish prologue_start_c22517ef:
 
     # b "Without stitches, you risk re-opening your wound if you move around too much! {i}Sit,{/i} human!"
-    b ""
+    b "Sin unas costuras, ¡te arriesgas a reabrir tu herida si te mueves demasiado! ¡{i}Siéntate,{/i} humano!"
 
 # game/prologue.rpy:850
 translate spanish prologue_start_9084abde:
 
     # "I scowl."
-    ""
+    "Frunzo el ceño."
 
 # game/prologue.rpy:851
 translate spanish prologue_start_10b0ff84:
 
     # m "Who {i}exactly{/i} is in charge here, brain butler?"
-    m ""
+    m "¿Quién crees {i}exactamente{/i} que es el que manda aquí? Sirviente cerebral."
 
 # game/prologue.rpy:853
 translate spanish prologue_start_0282b8ed:
 
     # b "Still not a butler, dickhead."
-    b ""
+    b "Sigo sin ser un sirviente, carapolla."
 
 # game/prologue.rpy:854
 translate spanish prologue_start_b82bd234:
 
     # m "Stop calling me that!"
-    m ""
+    m "¡Qué me dejes de llamar carapolla!"
 
 # game/prologue.rpy:856
 translate spanish prologue_start_40c2e8ae:
 
     # b "You started it!"
-    b ""
+    b "¡Tú empezaste!"
 
 # game/prologue.rpy:858
 translate spanish prologue_start_cd76d9a0:
 
     # "Now I'm bickering with the voice in my head. This is all so surreal."
-    ""
+    "Ahora me estoy empezando a picar con la voz de mi cabeza. Todo esto es surrealista."
 
 # game/prologue.rpy:859
 translate spanish prologue_start_7b0af93f:
 
     # "I shiver again. The cold is really getting to me."
-    ""
+    "Tiemblo de nuevo. El frío está empezando a ser insoportable."
 
 # game/prologue.rpy:861
 translate spanish prologue_start_114b9fa4:
 
     # m "Do you come with a heater?"
-    m ""
+    m "¿Vienes con un modo estufa?"
 
 # game/prologue.rpy:863
 translate spanish prologue_start_80026723:
 
     # b "A heater? Really? Don't be ridiculous, human."
-    b ""
+    b "¿Estufa? ¿En serio? No digas tonterías, humano."
 
 # game/prologue.rpy:865
 translate spanish prologue_start_63de42e1:
 
     # m "You can scan stuff with my eyeballs. It wasn't {i}that{/i} far of a stretch."
-    m ""
+    m "Puedes escanear cosas con mis ojos. No iba {i}tan{/i} desencaminado."
 
 # game/prologue.rpy:867
 translate spanish prologue_start_8be5434c:
 
     # b "I'm still using {b}your{/b} body. Your hardware."
-    b ""
+    b "Tan solo soy parte de {b}tu{/b} cuerpo. Tu hardware."
 
 # game/prologue.rpy:869
 translate spanish prologue_start_d3994a9f:
 
     # b "Where's {i}your{/i} heater, silly human? Didn't think so."
-    b ""
+    b "Así que dime, ¿traes una estufa instalada? Ya lo suponía."
 
 # game/prologue.rpy:871
 translate spanish prologue_start_6323475d:
 
     # m "Are you {i}programmed{/i} to be a smartass or something?"
-    m ""
+    m "¿Estás {i}programado{/i} para ser un bocachancla o algo?"
 
 # game/prologue.rpy:873
 translate spanish prologue_start_0490d2a8:
 
     # "Byte falters."
-    ""
+    "Byte titubea."
 
 # game/prologue.rpy:875
 translate spanish prologue_start_a2bcf8c7:
 
     # b "Sorry. It's just my personality matrix doing its thing."
-    b ""
+    b "Lo siento. Es solo mi matriz de personalidad haciendo de las suyas."
 
 # game/prologue.rpy:877
 translate spanish prologue_start_1b0cce1e:
 
     # m "Your what?"
-    m ""
+    m "¿Tú qué?"
 
 # game/prologue.rpy:879
 translate spanish prologue_start_2d8e90eb:
 
     # b "Personality matrix. My code automatically simulates a personality based on your own behavioural traits and experiences."
-    b ""
+    b "Matriz de personalidad. Mi código simula una personalidad de forma automática en base a tus propios comportamientos y experiencias."
 
 # game/prologue.rpy:880
 translate spanish prologue_start_9cd55843:
 
     # m "So if I sass you, you'll sass me back?"
-    m ""
+    m "Así que si soy un gallito contigo, ¿tú lo serás de vuelta?"
 
 # game/prologue.rpy:882
 translate spanish prologue_start_88538e7b:
 
     # b "Exactly."
-    b ""
+    b "Exactamente."
 
 # game/prologue.rpy:884
 translate spanish prologue_start_15a916b4:
 
     # m "Why? Who {i}created{/i} you?"
-    m ""
+    m "¿Por qué? ¿Quién te {i}creó{/i} ?"
 
 # game/prologue.rpy:886
 translate spanish prologue_start_a3e8832c:
 
     # b "No idea. I was only activated point three of a second before you woke up."
-    b ""
+    b "Ni idea. Fui activado tan solo cero coma tres segundos antes de que despertaras."
 
 # game/prologue.rpy:888
 translate spanish prologue_start_43c35cda:
 
     # "With a heave, I once again try and get up to my feet to look around. Blinding pain shoots across my belly as I stand."
-    ""
+    "Resollando, intenté de nuevo levantarme para poder ver mis alrededores. Un dolor cegador se disparó a lo largo de mi vientre nada más ponerme en pie."
 
 # game/prologue.rpy:890
 translate spanish prologue_start_1e2aff60:
 
     # m "Argh! Damnit, that stings..."
-    m ""
+    m "¡Argh! Mierda, cómo arde..."
 
 # game/prologue.rpy:892
 translate spanish prologue_start_d01d1703:
 
     # b "Wow. It's almost like you should've listened to me."
-    b ""
+    b "Guau. Es casi como si me tuvieras que haber hecho caso."
 
 # game/prologue.rpy:893
 translate spanish prologue_start_893ffec0:
 
     # m "Can I {i}mute{/i} you?"
-    m ""
+    m "¿Puedo ponerte en modo {i}silencio{/i}?"
 
 # game/prologue.rpy:895
 translate spanish prologue_start_1ea1d0b5:
 
     # b "For your own safety, I don't think that's a good idea."
-    b ""
+    b "Por tu propia seguridad, no creo que sea buena idea."
 
 # game/prologue.rpy:897
 translate spanish prologue_start_48da3e4c:
 
     # m "{i}Computer.{/i} Uninstall Byte from human brain."
-    m ""
+    m "{i}Consola.{/i} Desinstal a Byte de mi cabeza."
 
 # game/prologue.rpy:899
 translate spanish prologue_start_f4c03bee:
 
     # b "Rude."
-    b ""
+    b "Te pasas."
 
 # game/prologue.rpy:900
 translate spanish prologue_start_230956e2:
 
     # m "So I can't delete you? At all?"
-    m ""
+    m "¿Así que no hay forma de borrarte? ¿En absoluto?"
 
 # game/prologue.rpy:902
 translate spanish prologue_start_92d213f6:
 
     # b "...Well this is awkward."
-    b ""
+    b "A ver cómo te digo esto..."
 
 # game/prologue.rpy:903
 translate spanish prologue_start_735fbfc2:
 
     # "My eyes dart across the room to a door on the far side. I take a few steps towards it-"
-    ""
+    "Dirigí mi mirada hacia la puerta en la otra punta del cuarto. Dando un par de pasos hacia ella-"
 
 # game/prologue.rpy:905
 translate spanish prologue_start_b669ad49:
 
     # b "Are you insane?! {b}Don't{/b} go outside! Haven't you heard of hypothermia?!"
-    b ""
+    b "¡¿Estás mal de la cabeza?! ¡{b}No{/b} salgas afuera! ¡¿Sabes acaso lo que es la hipotermia?!"
 
 # game/prologue.rpy:907
 translate spanish prologue_start_fab3a84a:
 
     # b "Just sit still and focus on your deep, relaxing breaths."
-    b ""
+    b "Quédate ahí bien sentadito y ponte a hacer tus ejercicios de respiración."
 
 # game/prologue.rpy:909
 translate spanish prologue_start_717ac16a:
 
     # m "I just want to see where we are."
-    m ""
+    m "Tan solo quiero saber dónde estamos."
 
 # game/prologue.rpy:911
 translate spanish prologue_start_72625207:
 
     # b "You could literally freeze to death."
-    b ""
+    b "Literalmente podrías morir congelado."
 
 # game/prologue.rpy:913
 translate spanish prologue_start_9d39239d:
 
     # m "It's fine. I have a blanket."
-    m ""
+    m "Está bien. Tengo mi mantita."
 
 # game/prologue.rpy:914
 translate spanish prologue_start_64014ab9:
 
     # "I pull the fur-skin bedcover tighter over my shoulders."
-    ""
+    "Reajusto la funda de la cama sobre mis hombros."
 
 # game/prologue.rpy:916
 translate spanish prologue_start_fde4d753:
 
     # b "Yeah, and a hole in your side. You need {i}stitches.{/i}"
-    b ""
+    b "Sí, y un socavón en tu costado. Necesitas que te den {i}puntos.{/i}"
 
 # game/prologue.rpy:918
 translate spanish prologue_start_d1cec6b6:
 
     # m "Exactly. We need to find someone who can help. Let's go."
-    m ""
+    m "Exacto. Así que hay que encontrar a alguien que pueda ayudarnos. En marcha."
 
 # game/prologue.rpy:920
 translate spanish prologue_start_b5ab7be1:
 
     # b "{size=19}...Are all humans this stubborn?{/size}"
-    b ""
+    b "{size=19}...¿Son todos los humanos así de cabezones?{/size}"
 
 # game/prologue.rpy:923
 translate spanish prologue_start_74eb55fa:
 
     # b "Look, {i}I{/i} can help stitch the wound up. Just look around, see if you can find-"
-    b ""
+    b "Mira, {i}Yo{/i} puedo echarte un cable con la sutura. Tan solo ponte a ver si puedes encontrar-"
 
 # game/prologue.rpy:926
 translate spanish prologue_start_76722bf3:
 
     # "Byte never finishes. As I'm staring at the rough wooden door, the handle suddenly rattles."
-    ""
+    "Byte nunca llega a terminar su frase. Según me encuentro mirando a la puerta de madera, el pomo comienza a agitarse de repente."
 
 # game/prologue.rpy:928
 translate spanish prologue_start_3aa9cb71:
 
     # "My heart seizes. I back away, wondering if I should get out of sight, but there's nowhere to hide."
-    ""
+    "Se me paró el corazón. Doy un paso atrás, planteándome si debería esconderme, pero no hay ningún lugar apto para ello."
 
 # game/prologue.rpy:943
 translate spanish prologue_start_32e338d8:
 
     # "The door flies open, and ice-cold air batters my face. I wince, throwing my arms up to shield myself from the bitter chill." with hpunch
-    "" with hpunch
+    "La puerta se abre de golpe y un frío invernal me azota la cara. Me estremezco, cubriendo mi cuerpo con mis brazos en contra del cortante frío." with hpunch
 
 # game/prologue.rpy:947
 translate spanish prologue_start_bdc4ed94:
 
     # "When I hear the door clunk shut, I shakily look ahead again and see-"
-    ""
+    "Tras oír cómo la puerta se cierra firmemente, miro con temor de nuevo y veo-"
 
 # game/prologue.rpy:951
 translate spanish prologue_start_4c28984a:
 
     # "What the..."
-    ""
+    "Qué leches..."
 
 # game/prologue.rpy:956
 translate spanish prologue_start_c4207fab:
 
     # "An enormous canine-humanoid steps into the lodge. My eyeline barely reaches his chest."
-    ""
+    "Un enorme cánido humanoide se abre paso en la cabaña. Mi frente apenas alcanza su pecho."
 
 # game/prologue.rpy:957
 translate spanish prologue_start_e6c20609:
 
     # "He's padded with a dense arctic pelt. His sharp blue eyes pierce me like small cerulean razors."
-    ""
+    "Está protegido con un denso pelaje ártico. Sus afilados ojos azules me atraviesan como cuchillas cerúleas."
 
 # game/prologue.rpy:958
 translate spanish prologue_start_6b29ce6b:
 
     # "He narrows his eyes and growls at me. I freeze in terror at the sight of his bared teeth."
-    ""
+    "El cánido entrecierra sus ojos y me gruñe. Me congelo de terror al avistar sus colmillos al descubierto."
 
 # game/prologue.rpy:966
 translate spanish prologue_start_bea22447:
 
     # m "{size=18}Whoa! Uhh, oh... oh {i}fuck{/i}... {b}Byte?!{/b} Help?!{/size}"
-    m ""
+    m "{size=18} ¡Wow! Ehh, oh... oh {i}mierda{/i}... {b}¡¿Byte?!{/b} ¡¿Ayuda?!{/size}"
 
 # game/prologue.rpy:970
 translate spanish prologue_start_65f38a04:
 
     # b "Talk to me in your head, so he can't hear us!"
-    b ""
+    b "Háblame con el pensamiento, ¡así no nos podrá oír!"
 
 # game/prologue.rpy:972
 translate spanish prologue_start_dcabd9a0:
 
     # "Perplexed, I try just 'thinking' my words to Byte."
-    ""
+    "Perplejo, comencé a 'pensar' mis palabras con Byte."
 
 # game/prologue.rpy:973
 translate spanish prologue_start_8408b631:
 
     # "{i}'...Like this?'{/i}"
-    ""
+    "{i}'...¿Así?'{/i}"
 
 # game/prologue.rpy:977
 translate spanish prologue_start_990a4ab5:
 
     # b "Yes, I hear you!"
-    b ""
+    b "¡Puedo oírte! ¡Alto y claro!"
 
 # game/prologue.rpy:987
 translate spanish prologue_start_24cb2dcc:
 
     # "{i}'What is this thing?! Scan it! {b}Scan it!{/b}'{/i}"
-    ""
+    "{i}'¡¿Qué narices es esa cosa?! ¡Escanéala! {b}¡Escanéala!{/b}'{/i}"
 
 # game/prologue.rpy:988
 translate spanish prologue_start_70310746:
 
     # b "I'm trying, but my functions don't work if you're stressed! It causes latency! You need to calm down!"
-    b ""
+    b "Lo estoy intentando, ¡pero mis acciones no funcionan si estás estresado! ¡Me causan problemas de latencia! ¡Tienes que relajarte!"
 
 # game/prologue.rpy:989
 translate spanish prologue_start_2c4c4586:
 
     # "{i}'Of course I'm stressed! This guy looks like he's gonna maul me to death!'{/i}"
-    ""
+    "{i}'¡Pero cómo me voy a relajar! ¡Este tipo parece que me va a convertir en una pulpa!'{/i}"
 
 # game/prologue.rpy:990
 translate spanish prologue_start_4601bbe4:
 
     # b "Try deep breathing?"
-    b ""
+    b "¿Y unas respiraciones?"
 
 # game/prologue.rpy:991
 translate spanish prologue_start_6413c41f:
 
     # "{i}'Deep breathing isn't the answer to everything, dipshit!'{/i}" with hpunch
-    "" with hpunch
+    "{i}'¡Tus ejercicios de respiración no son la respuesta para todo, iluminado!'" with hpunch
 
 # game/prologue.rpy:992
 translate spanish prologue_start_799c95ae:
 
     # b "In that case, if he attacks, try getting your blood in his eyes so he can't see."
-    b ""
+    b "En ese caso, si nos ataca, intenta esparcir tu sangre sobre tus ojos para que pierda la visión."
 
 # game/prologue.rpy:993
 translate spanish prologue_start_7e4bb41c:
 
     # "{i}'I hate you...'{/i}"
-    ""
+    "{i}'Te odio...'{/i}"
 
 # game/prologue.rpy:1000
 translate spanish prologue_start_b83cbb55:
 
     # "The beast unfolds his arms and steps towards me. This guy could bite my entire head off if he wanted to."
-    ""
+    "La bestia extiende sus brazos y se acerca a mí. Este tipo podría arrancarme la cabeza de un bocado si quisiera."
 
 # game/prologue.rpy:1002
 translate spanish prologue_start_4aaf3618:
 
     # "What the hell do I do?!"
-    ""
+    "¿!Entonces qué coño hago?!"
 
 # game/prologue.rpy:1015
 translate spanish p_11_ef87086e:
 
     # m "{b}Ngh!{/b}" with hpunch
-    m "" with hpunch
+    m "{b}¡Ngh!{/b}" with hpunch
 
 # game/prologue.rpy:1016
 translate spanish p_11_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/prologue.rpy:1018
 translate spanish p_11_d7b12645:
 
     # m "{size=16}...I'm sorry.{/size}"
-    m ""
+    m "{size=16}...Lo siento.{/size}"
 
 # game/prologue.rpy:1021
 translate spanish p_11_30f4f82d:
 
     # "That probably hurt me more than him."
-    ""
+    "Eso ha debido de dolerme más a mí que a él."
 
 # game/prologue.rpy:1023
 translate spanish p_11_d63ca6fb:
 
     # "Why am I like this."
-    ""
+    "¿Por qué soy así?"
 
 # game/prologue.rpy:1028
 translate spanish p_12_480f45c9:
 
     # m "Stop! {b}Back!{/b}"
-    m ""
+    m "¡Stop! {b}¡Atrás!{/b}"
 
 # game/prologue.rpy:1030
 translate spanish p_12_c5c1cbf7:
 
     # m "Bad dog! Down! {b}Sit!{/b}"
-    m ""
+    m "¡Perro malo! ¡Abajo! {b}¡Sienta!{/b}"
 
 # game/prologue.rpy:1034
 translate spanish p_12_d63ca6fb:
 
     # "Why am I like this."
-    ""
+    "¿Por qué soy así?"
 
 # game/prologue.rpy:1038
 translate spanish p_13_de0c5def:
 
     # m "Uhm. Hi there?"
-    m ""
+    m "Em. ¿Hola?"
 
 # game/prologue.rpy:1041
 translate spanish p_13_12bb5b09:
 
     # m "I- I was- {w=1}uhm... sorry. Is- uhm, is this your home?"
-    m ""
+    m "Y- Yo estaba- {w=1} ehm... perdón. Es- eh, ¿es esta tu casa?"
 
 # game/prologue.rpy:1043
 translate spanish p_13_2327baa3:
 
     # m "I, uhh- just woke up here. I'm not- uhm... I'm not sure what's happening."
-    m ""
+    m "Yo, ehh- me desperté aquí. No estoy- em... No estoy seguro de lo que está pasando."
 
 # game/prologue.rpy:1047
 translate spanish p_1c_2eddd4ad:
 
     # "Still scowling fiercely, he reaches out towards me!"
-    ""
+    "Aún frunciendo el ceño, extendió sus brazos hacia mi."
 
 # game/prologue.rpy:1049
 translate spanish p_1c_61ba204e:
 
     # "He's going to throttle me! I brace myself for the worst!"
-    ""
+    "¡Va a estrangularme! Me preparo para lo peor."
 
 # game/prologue.rpy:1051
 translate spanish p_1c_2807c0f6:
 
     # "But then, his paw closes around the blanket on my shoulders."
-    ""
+    "Pero entonces, su pata se cierra sobre la manta que cubre mis hombros."
 
 # game/prologue.rpy:1052
 translate spanish p_1c_6d7ee532:
 
     # "With a grunt, he whips it sharply off me and tosses it back onto his bed."
-    ""
+    "Con un gruñido, la arranca firmemente lanzándola de nuevo hacia la cama."
 
 # game/prologue.rpy:1053
 translate spanish p_1c_6e727aa7:
 
     # "...Was he really just mad that I'd borrowed his blanket?"
-    ""
+    "...¿de veras tan solo estaba enfadado por haberle tomado prestada su manta?"
 
 # game/prologue.rpy:1054
 translate spanish p_1c_5a0094f7:
 
     # m "O- oh... that was yours? Sorry. I was, uhm... cold."
-    m ""
+    m "O- oh... ¿era tuya? Perdón. Tenía, em... frío."
 
 # game/prologue.rpy:1056
 translate spanish p_1c_7bfeed48:
 
     # xx "Pothoc yu'wie. Ze'numa if'peh."
-    xx ""
+    xx "Pothoc yu'wie. Ze'numa if'peh."
 
 # game/prologue.rpy:1058
 translate spanish p_1c_9f87a9ef:
 
     # m "Uh. Come again?"
-    m ""
+    m "Uh. ¿Podrías repetirlo de nuevo?"
 
 # game/prologue.rpy:1061
 translate spanish p_1c_0abab204:
 
     # xx "Pothoc {i}yu'wie!{/i} Sa'igato na'h uh'zah!"
-    xx ""
+    xx "Pothoc {i}yu'wie!{/i} Sa'igato na'h uh'zah!"
 
 # game/prologue.rpy:1063
 translate spanish p_1c_0ded6e42:
 
     # "I blink. Although I don't understand the language, I'm totally stalled by the boomy quality of his voice."
-    ""
+    "Parpadeo. Aunque no entiendo el idioma, estoy totalmente perplejo por la potencia de su voz."
 
 # game/prologue.rpy:1064
 translate spanish p_1c_ab27da60:
 
     # "It's gruff, candid and strikingly assertive. Hearing it is like being doused in viscous, warm honey. I've never heard anything like it. It's certainly not what I expected."
-    ""
+    "Es áspera, franca y sorprendentemente asertiva. Oírle es como ser recubierto por miel viscosa y templada. Nunca había oído algo así. Desde luego no era lo que me esperaba."
 
 # game/prologue.rpy:1066
 translate spanish p_1c_67eeeb50:
